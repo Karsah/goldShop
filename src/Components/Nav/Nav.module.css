@@ -1,0 +1,107 @@
+
+
+
+.navBlock{
+    width:100%;
+    height: 90px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+.leftBox{
+    width: 5%;
+    height: 90px;
+    background-color: rgb(251, 253, 253);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.midlBox{
+    display: flex;
+}
+.rightBox{
+    margin-left: 50px;
+    width: 5%;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.leftBox1{
+    padding: 10px;
+    width: 40px;
+    height: 72px;
+
+}
+.leftBox2{
+    padding: 10px;
+    width: 40px;
+    height: 72px;
+
+}
+
+
+
+.woman{
+    width: 20px;
+    height: 20px;
+   color: #939393;
+
+}
+
+
+
+.addBoxImage{
+    margin-left: 10px;
+    width: 140px;
+    height: 80px;
+    border: solid #939393 2px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.navImage{
+
+    height: 48px;
+    width: 48px;
+
+}
+.imageDiv{
+
+}
+
+.textValue{
+    display: flex;
+    width: 100%;
+text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.edit{
+
+
+}
+.addBoxImage > .edit{
+    position: absolute;
+    right: 0%;
+}
+.addBoxImage > .imageDiv{
+    position: absolute;
+    right: 34%;
+    top: 10%;
+
+}.addBoxImage > .textValue{
+    position: absolute;
+    bottom: 3%;
+
+}

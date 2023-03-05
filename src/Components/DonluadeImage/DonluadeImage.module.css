@@ -1,0 +1,44 @@
+.btn{
+    border: none;
+    background-color: rgb(187, 185, 185);
+}
+
+
+.textP{
+    color:white;
+    cursor: pointer;
+}
+
+.XX{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: -55px;
+    right: -88px;
+    background-color: rgb(42, 61, 165);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.imageitem__btnwrapper{
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+
+.asd {
+    position: relative;
+}
+
+.vector1{
+    margin-left: 35px;
+}
+
+.addImage{
+    width: 230px;
+    height: 140px;
+    border-radius: 5px;
+    position: absolute;
+    top: -55px;
+    right: -90px;
+}

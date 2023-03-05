@@ -1,0 +1,106 @@
+
+.modal{
+    background-color: rgba(0, 0, 0, 0.384);
+}
+
+
+.plus {
+    width: 35px;
+    margin: 35px;
+    font-size: 30px;
+}
+.add{
+        width: 252px;
+        height: 375px;
+        position: absolute;
+        top: 350px;
+        left: 1100px;
+        transform: translate(-50%, -50%);
+        background-color: rgb(247, 242, 242);
+
+}
+
+.dabavic{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+    
+}
+
+.XX{
+    cursor: pointer;
+}
+
+.male{
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.gender{
+    width: 100px;
+    height: 35px;
+    background-color: rgb(255, 255, 254);
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.kategoria{
+    width: 227px;
+    margin: 12px;
+}
+
+.kategorsInput{
+    outline: none;
+    border: none;
+    background-color:rgb(249, 242, 242);
+}
+
+.donluadImg{
+    width: 227px;
+    height: 140px;
+    margin: 13px;
+    background-color: rgb(187, 185, 185);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.textP{
+    color: white;
+}
+
+.dabavic2{
+    width: 227px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: blue;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.jen{
+    font-size: 14px;
+}
+
+.murs{
+    font-size: 14px;
+}
+
+.textP2{
+    color:white;
+    cursor: pointer;
+}

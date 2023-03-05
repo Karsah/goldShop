@@ -1,0 +1,107 @@
+.productBlock{
+    display: flex;
+    width: 90%;
+    height: auto;
+    margin: 50px;
+justify-content: center;
+    align-items: center;
+
+}
+.imgAdd{
+    width: 80px;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.modal{
+    background-color: rgba(0, 0, 0, 0.384);
+}
+
+.add{
+    width: 852px;
+    height: 375px;
+    position: absolute;
+    top: 350px;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(247, 242, 242);
+
+}
+.dabavic{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+
+}
+.XX{
+    cursor: pointer;
+    position: absolute;
+    top: 5%;
+    left: 95%;
+}
+.middleBox{
+    display: flex;
+    justify-content: center;
+}
+.category{
+    width: 227px;
+    margin: 12px;
+}
+.kategorsInput{
+    outline: none;
+    border: none;
+    background-color:rgb(249, 242, 242);
+}
+.downloadImg{
+    width: 194px;
+    height: 170px;
+    margin: 13px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: solid 4px #aca0a0;
+
+}
+.dabavic2{
+    width: 227px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: blue;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: inherit;
+    left: 50%;
+}
+
+.textP2{
+    color:white;
+    cursor: pointer;
+}
+.smallImageBox{
+    display: flex;
+    width: 174px ;
+}
+.bigImage{
+    width: 174px;
+    height: 114px;
+    background-color: #e0d3d3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.smallImg{
+
+width: 34px;
+    height: 34px;
+    background-size: cover;
+    background-color: #e0d3d3;
+    margin: 5px;
+}
